@@ -1,20 +1,11 @@
-
 package de.dhbw.advancewars.GUI;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.image.BufferedImage;
-import java.io.IOException;
-import javax.imageio.ImageIO;
-import javax.swing.event.ChangeEvent;
-import javax.swing.event.ChangeListener;
 
 import de.dhbw.advancewars.AdvanceWars;
 
 import java.awt.event.*;
-import java.util.ArrayList;
-
-
 
 public class GUI2 {
     private static final int ANIMATION_DELAY = 10;
